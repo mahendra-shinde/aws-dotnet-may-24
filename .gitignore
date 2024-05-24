@@ -1,0 +1,7 @@
+# gitignore for dotnet projects
+.vs/
+.vscode/
+bin/
+debug/
+obj/
+packages/
