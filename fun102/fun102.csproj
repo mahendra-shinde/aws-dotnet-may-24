@@ -18,7 +18,7 @@
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.4.3" />
     <PackageReference Include="awssdk.S3" Version="3.7.308.4" />
     <PackageReference Include="awssdk.SQS" Version="3.7.301.8" />
-    <PackageReference Include="System.Text.Json" Version="8.0.3" />
+    <PackageReference Include="System.Text.Json" Version="8.0.4" />
   </ItemGroup>
 
 </Project>
